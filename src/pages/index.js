@@ -8,13 +8,34 @@ import SEO from '../components/seo';
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <h1>Welcome to React Maps Examples!</h1>
+    <p>The purpose of this little webapp is to show that you can build really nice map components for mobile web browsers in React. :)</p>
+    <p>This app has examples with a few different mapping libaries:</p>
+
+    <Link to="/google-maps-example/">- Google Maps Example</Link>
+    <br />
+    <Link to="/leaflet-example/">- Leaflet Example</Link>
+    <br />
+    <Link to="/open-layers-example/">- Open Layers Example</Link>
+    <br />
+    <Link to="/bing-maps-example/">- Bing Maps Example</Link>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
   </Layout>
 );
 

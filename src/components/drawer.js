@@ -35,7 +35,13 @@ const Item = styled(Link)`
   cursor: pointer;
 `;
 
-const items = [{ url: '/', name: 'Home' }, { url: '/page-2/', name: 'Page 2' }];
+const items = [
+  { url: '/', name: 'Home' }, 
+  { url: '/google-maps-example/', name: 'Google Maps' },
+  { url: '/leaflet-example/', name: 'Leaflet' },
+  { url: '/open-layers-example/', name: 'Open Layers' },
+  { url: '/bing-maps-example/', name: 'Bing Maps' }
+];
 
 const Drawer = ({ isDrawerOpen, toggleDrawer }) => (
   <Paper isDrawerOpen={isDrawerOpen}>

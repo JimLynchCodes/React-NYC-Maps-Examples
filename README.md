@@ -32,10 +32,15 @@ A lot of my friends have been trash talking "maps in the browser" saying that it
 
 ## Libraries Displayed 
 
-- Google maps 
+- [TODO!!] Google maps 
 
-- Leaflet - https://leafletjs.com/
+- [TODO!!] Leaflet - https://leafletjs.com/
 
+- [TODO!!] Open Layers - https://openlayers.org/
+
+- [TODO!!] Bing Maps - https://docs.microsoft.com/en-us/bingmaps/v8-web-control/
+
+- ...feel free to add more! 
 
 ## Contributing
 
