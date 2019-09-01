@@ -32,7 +32,7 @@ A lot of my friends have been trash talking "maps in the browser" saying that it
 
 ## Libraries Displayed 
 
-- [TODO!!] Google maps 
+- [TODO!!] Google maps - https://developers.google.com/maps/documentation/javascript/tutorial
 
 - [TODO!!] Leaflet - https://leafletjs.com/
 
