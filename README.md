@@ -2,7 +2,29 @@
 
 Some examples of displaying maps with JavaScript.
 
+
+## (Lack of) Live Demo
+Unfortunately, this one is difficult to host live without publicly exposing all my api keys. :(
+
+The best way to use this project is get follow the setup guide below to key api keys, create your .env.development file, and then run the development server. 
+
+
+## Env.development file
+Create a new file in the root of the project named `.env.development`, and put your environment variables here. Follow the `.env.development_SAMPLE` file to know what names to give the envionment variables. 
+
+- Leaflet: uses a "Mapbox access token" which you can get [here](https://account.mapbox.com/access-tokens).
+
+## Get API Keys
+
+For each third party mapping supplier you'll 
+
+
+
 ## Usage
+
+
+
+
 
 1) install dependencies
 
