@@ -2,6 +2,10 @@
 
 Some examples of displaying maps with JavaScript.
 
+- ### [Leaflet](https://leafletjs.com/)
+
+<img src="./screenshots/leaflet-example-screenshot.png"/>
+
 
 ## (Lack of) Live Demo
 Unfortunately, this one is difficult to host live without publicly exposing all my api keys. :(
@@ -24,8 +28,6 @@ For each third party mapping supplier you'll
 
 
 
-
-
 1) install dependencies
 
 ```
@@ -44,7 +46,7 @@ Formatting and linting is done with [Prettier](https://prettier.io/) and [Eslint
 
 To fix all lint & formatting issues run:
 ```
-npm run format
+npm run format 
 ```
 
 
@@ -54,9 +56,11 @@ A lot of my friends have been trash talking "maps in the browser" saying that it
 
 ## Libraries Displayed 
 
-- [TODO!!] Google maps - https://developers.google.com/maps/documentation/javascript/tutorial
+- Leaflet - https://leafletjs.com/
+  ✅ Display a map!
+  - Display a marker.
 
-- [TODO!!] Leaflet - https://leafletjs.com/
+- [TODO!!] Google maps - https://developers.google.com/maps/documentation/javascript/tutorial
 
 - [TODO!!] Open Layers - https://openlayers.org/
 
