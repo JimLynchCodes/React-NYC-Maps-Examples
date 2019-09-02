@@ -57,6 +57,7 @@ A lot of my friends have been trash talking "maps in the browser" saying that it
 ## Libraries Displayed 
 
 - Leaflet - https://leafletjs.com/
+
   ✅ Display a map!
   - Display a marker.
 
