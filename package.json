@@ -19,12 +19,14 @@
     "gatsby-plugin-sharp": "^2.0.20",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-sharp": "^2.1.13",
+    "leaflet": "^1.5.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
     "react-redux": "^6.0.0",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "styled-components": "^4.3.2"
   },
   "keywords": [
     "gatsby",
@@ -34,8 +36,8 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
-    "start": "npm run develop",
+    "develop": "GATSBY_ENV=development gatsby develop",
+    "start": "GATSBY_ENV=development npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
     "format": "eslint src --fix"
